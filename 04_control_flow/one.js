@@ -18,3 +18,11 @@ val1 = null ?? 10 // output is 10 again
 //ternary operator
 
 //condition ? true : false
+
+
+//for loop
+
+for (let index = 0; index< 10 ; index ++){
+    const element = index;
+    console.log(element);
+}
